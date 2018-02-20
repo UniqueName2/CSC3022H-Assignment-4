@@ -25,6 +25,8 @@ To Run -
 		Subtract:       -s img1 img2
 		Mask:           -l img1 img2
 		Thresehold:     -t img1 f
+	
+	*Note - The filter option was not implemented
 
 To test -
 	
