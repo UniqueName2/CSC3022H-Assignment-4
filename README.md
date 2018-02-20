@@ -20,11 +20,11 @@ To Run -
 	
 	$ ./imageops <option> outputImageName.pgm
 	Options:
-	Inverse:        -i img1
-        Add:            -a img1 img2
-        Subtract:       -s img1 img2
-        Mask:           -l img1 img2
-        Thresehold:     -t img1 f
+		Inverse:        -i img1
+		Add:            -a img1 img2
+		Subtract:       -s img1 img2
+		Mask:           -l img1 img2
+		Thresehold:     -t img1 f
 
 To test -
 	
