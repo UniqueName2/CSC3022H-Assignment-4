@@ -15,7 +15,7 @@ To compile -
 To Run - 
 	$ ./imageops <option> outputImageName.pgm
 	Options:
-        Inverse:        -i img1
+	Inverse:        -i img1
         Add:            -a img1 img2
         Subtract:       -s img1 img2
         Mask:           -l img1 img2
@@ -28,6 +28,6 @@ To test -
 To clean - 
   $ make clean
 
-Please refer to the document Tutorial-4.pdf for more details regarding the assignment.
+Please refer to the document Tutorial-4.pdf for more details regarding this assignment.
 
-Should you require any further clarification regarding this submission, please feel free to contact me at sahil.j.patel@gmail.com. Thank you.
+Please feel free to contact me at sahil.j.patel@gmail.com should you require any further clarification. Thank you.
