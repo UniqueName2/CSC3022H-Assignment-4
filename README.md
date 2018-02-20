@@ -1,13 +1,13 @@
-# CSC3022H-Assignment-4
-# C++ Operator Overloading and Iterators: Image Manipulation
+CSC3022H-Assignment-4
+C++ Operator Overloading and Iterators: Image Manipulation
 
 Author : Sahil Patel
 Student Number : PTLSAH004
 Date : 22-May-2017
 
-# Usage: Please have the neccessary files in the same directory when running.
+***Usage: Please have the neccessary files in the same directory when running.
 
-'$' refers to the command line
+*'$' refers to the command line
 
 To compile - 
 	$ make
